@@ -1,0 +1,25 @@
+{
+  "name": "react-training",
+  "version": "1.0.0",
+  "description": "\" Learn how to program with React.js framework\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marielise/react-training.git"
+  },
+  "keywords": [
+    "React.js"
+  ],
+  "author": "ML H",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marielise/react-training/issues"
+  },
+  "homepage": "https://github.com/marielise/react-training#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.0"
+  }
+}
